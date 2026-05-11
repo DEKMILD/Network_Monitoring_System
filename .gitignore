@@ -1,0 +1,5 @@
+# Ignore local data
+grafana_data/
+prometheus_data/
+.DS_Store
+*.log
